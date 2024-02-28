@@ -7,8 +7,6 @@
         <img src="/assets/images/hero-bg.png" alt="">
       </div>
     </div>
-
- 
     <!-- slider section -->
     <section class="slider_section ">
       <div id="customCarousel1" class="carousel slide" data-ride="carousel">
